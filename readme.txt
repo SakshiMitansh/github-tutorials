@@ -3,3 +3,7 @@ programming in c
 html
 computer fundamental
 practical
+bca sem 2
+php
+ds
+practical
